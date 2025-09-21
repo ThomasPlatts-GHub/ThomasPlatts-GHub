@@ -24,5 +24,5 @@
 </ul>
 
 # What This GitHub Profile Is For
-This profile is for me and recruiters who are interested in hiring. Here are all of my personal projects which i am proud of (these range from learning curves to fully fledged projects).<br>My overall goal in life is to become proficient in Engineering, Physics and Mathematics alongside coding to supplement future projects which i have in mind.
+This profile is for me but also recruiters who are interested in hiring. Here are all of my personal projects which i am proud of (these range from learning curves to fully fledged projects).<br>My overall goal in life is to become proficient in Engineering, Physics and Mathematics alongside coding to supplement future projects which i have in mind.
 
