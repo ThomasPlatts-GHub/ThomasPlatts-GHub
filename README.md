@@ -11,17 +11,18 @@
 # Interests
 I am currently juggling many things such as:
 <ul>
-  <li>
      <li>
       Studying an Integrated Masters Degree in Physics with The Open University (I am in my second year)
-    </li><li>
+    </li>
+  <li>
       Learning the syntax of C++ to be able to learn and code systems with an Arduino (and do some physics simulations) and eventually learn some Python Packages for a Raspberry Pi 5.
-    </li><li>
+    </li>
+  <li>
       Understanding basic electronics ranging from (circuits, resistors, diodes etc.), to further better my knowledge in Electrical Engineering.
-    </li><li>
+    </li>
+  <li>
       And finally I will eventually be teaching myself further engineering (hopefully with an Internship at some company)
     </li>
-  </li>
 </ul>
 
 # Current Learning Tech Stack (All under way)
