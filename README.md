@@ -31,7 +31,7 @@ I am currently juggling many things such as:
     Python + Sympy - This is for Symbolic manipulation (e.g. Symbolic integrators, anomaly detectors)
   </li>
   <li>
-    C++ with SFML + OpenGL - This is for SImulation & Visual Diagnostics (e.g. Real-time physics simuylators, reflex overlays)
+    C++ with SFML + OpenGL - This is for SImulation & Visual Diagnostics (e.g. Real-time physics simulators, reflex overlays)
   </li>
   <li>
     More Arduino and C++ work - For Embedded Systems & Diagnostics (e.g. Modular sensor loggers, reflex triggers)
