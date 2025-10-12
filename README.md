@@ -9,9 +9,10 @@
 </ul>
 
 # Interests
+I am currently juggling many things such as:
 <ul>
   <li>
-    I am currently juggling many things such as: <li>
+     <li>
       Studying an Integrated Masters Degree in Physics with The Open University (I am in my second year)
     </li><li>
       Learning the syntax of C++ to be able to learn and code systems with an Arduino (and do some physics simulations) and eventually learn some Python Packages for a Raspberry Pi 5.
