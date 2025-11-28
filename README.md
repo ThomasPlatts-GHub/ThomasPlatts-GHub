@@ -1,3 +1,6 @@
+# Quick Note
+My heatmap has significantly died down. This is not because i have stopped making projects, I am currently learning extensive C++ and will move to the GLFW library as I want to eventually simulate black holes through C++. Please forgive the gaps in the heatmap.
+
 # Hello All!
 <ul>
   <li>
