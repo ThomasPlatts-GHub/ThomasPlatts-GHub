@@ -24,31 +24,9 @@ I am currently juggling many things such as:
       Understanding basic electronics ranging from (circuits, resistors, diodes etc.), to further better my knowledge in Electrical Engineering.
     </li>
   <li>
-      And finally I will eventually be teaching myself further engineering (hopefully with an Internship at some company)
+      And finally I will eventually be teaching myself further engineering and developing my programming skills as far as possible.
     </li>
 </ul>
-
-# Current Learning Tech Stack (All under way)
-<ol>
-  <li>
-    Python + Sympy - This is for Symbolic manipulation (e.g. Symbolic integrators, anomaly detectors)
-  </li>
-  <li>
-    C++ with SFML + OpenGL - This is for Simulation & Visual Diagnostics (e.g. Real-time physics simulators, reflex overlays)
-  </li>
-  <li>
-    More Arduino and C++ work - For Embedded Systems & Diagnostics (e.g. Modular sensor loggers, reflex triggers)
-  </li>
-  <li>
-    Rust - For Chaos-Resilient Architecture (e.g. Runtime patchers, config validators)
-  </li>
-  <li>
-    Assembly (x86 or ARM) - Low-Level Runtime Control (e.g. Reverse-engineering runtime behaviour)
-  </li>
-  <li>
-    Haskell or Lisp - Meta-Programming & Abstraction (e.g. Logic interpreters)
-  </li>
-</ol>
 
 # What This GitHub Profile Is For
 This profile is for me but also recruiters who are interested in hiring. Here are all of my personal projects which i am proud of (these range from learning curves to fully fledged projects).<br>My overall goal in life is to become proficient in Engineering, Physics and Mathematics alongside coding to supplement future projects which i have in mind.
